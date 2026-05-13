@@ -3,7 +3,7 @@ The Adeept PiXie Board is an Arduino‑based robot control board. The tutorials 
 
 ## Resources Links
 
-[Official website]:  https://www.adeept.com/     \
+[Official website]:  https://www.adeept.com/     
 
 
 ## Getting Support or Providing Advice
